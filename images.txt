@@ -7,3 +7,4 @@ xhofe/alist:latest
 jellyfin/jellyfin
 p3terx/aria2-pro
 photoprism/photoprism
+ghcr.io/immich-app/immich-server:pr-13688
