@@ -10,3 +10,4 @@ photoprism/photoprism
 ghcr.io/immich-app/immich-server:pr-13688
 ghcr.io/immich-app/immich-server
 ghcr.io/immich-app/immich-server:v1.118.2
+immich-app/immich
