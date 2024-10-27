@@ -9,6 +9,8 @@ p3terx/aria2-pro
 photoprism/photoprism
 ghcr.io/immich-app/immich-server:v1.118.2
 docker.io/cnk3x/xunlei:v3.20.2
-
+ghcr.io/immich-app/immich-machine-learning:v1.118.2
+docker.io/redis:6.2.4-alpine
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 
 
